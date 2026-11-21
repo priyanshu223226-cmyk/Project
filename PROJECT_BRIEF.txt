@@ -1,0 +1,35 @@
+PROJECT BRIEF - MALL CUSTOMER EDA
+
+Student Name: PRIYANSHU YADAV
+Admission Number: 2026B01010276
+Course: B.Tech CSE, First Year
+Training: HCL Data Analytics Training
+Assigned Project: Mall Customer EDA
+
+DATASET
+- Dataset file: data/raw/Mall_Customers.csv
+- Expected dataset size: 200 rows
+- Expected columns: CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100)
+- Dataset source listed in the allocation sheet: https://www.kaggle.com/datasets/vjchoudhary
+
+ASSIGNED TASKS
+1. Count customers by gender.
+2. Find mean, median, minimum and maximum for Age, Annual Income and Spending Score.
+3. Find the age group with the highest average spending score. Define clear age bands.
+4. Compare average annual income and average spending score by gender.
+5. List the 10 customers with the highest spending scores.
+6. Check missing values and duplicate rows.
+
+REQUIRED ANALYSIS APPROACH
+- Use Python, NumPy and Pandas.
+- Load and inspect the dataset using head(), tail(), shape, info() and describe().
+- Use at least one NumPy array for numerical calculations.
+- Use Pandas value_counts(), filtering, sorting and groupby() where relevant.
+- Create exactly two simple charts:
+  (a) Gender-count bar chart.
+  (b) Scatter plot of annual income versus spending score.
+- End the analysis with exactly three observations.
+- This is basic Exploratory Data Analysis (EDA) only. Do not use machine learning or prediction models.
+
+IMPORTANT
+The task details above are for this student's Mall Customer EDA assignment only. Do not use or substitute a Student Performance dataset. Recalculate all results from the supplied original CSV. Do not assume results without checking the file.

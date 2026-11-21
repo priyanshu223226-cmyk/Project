@@ -1,0 +1,4 @@
+column,numpy_mean,numpy_median,numpy_minimum,numpy_maximum
+Age,38.85,36.0,18.0,70.0
+Annual Income (k$),60.56,61.5,15.0,137.0
+Spending Score (1-100),50.2,50.0,1.0,99.0
